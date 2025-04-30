@@ -1,4 +1,4 @@
-<h1>THE WEBSITE IS TEMPORARILY TAKEN DOWN</h1>
+<h1>The website is back up!</h1>
 This branch is for the GitHub Pages site for the most updated blooket cheats.
 
 https://ez1oo.github.io/05konz-blooket-site/
