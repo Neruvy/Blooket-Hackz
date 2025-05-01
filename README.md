@@ -1,4 +1,4 @@
-> [CAUTION]
+> [!CAUTION]
 > I am **NOT** responsible for ANY trouble you get in for using this exploit.
 
 This branch is for the GitHub Pages site for the most updated blooket cheats.
